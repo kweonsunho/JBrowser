@@ -1,0 +1,15 @@
+C:\Users\kweon\Desktop\비주얼 베이직\JBrowser\JBrowser\bin\Debug\JBrowser.exe.config
+C:\Users\kweon\Desktop\비주얼 베이직\JBrowser\JBrowser\bin\Debug\JBrowser.exe
+C:\Users\kweon\Desktop\비주얼 베이직\JBrowser\JBrowser\bin\Debug\JBrowser.pdb
+C:\Users\kweon\Desktop\비주얼 베이직\JBrowser\JBrowser\bin\Debug\JBrowser.xml
+C:\Users\kweon\Desktop\비주얼 베이직\JBrowser\JBrowser\obj\Debug\JBrowser.vbprojResolveAssemblyReference.cache
+C:\Users\kweon\Desktop\비주얼 베이직\JBrowser\JBrowser\obj\Debug\JBrowser.Form1.resources
+C:\Users\kweon\Desktop\비주얼 베이직\JBrowser\JBrowser\obj\Debug\JBrowser.Resources.resources
+C:\Users\kweon\Desktop\비주얼 베이직\JBrowser\JBrowser\obj\Debug\JBrowser.vbproj.GenerateResource.Cache
+C:\Users\kweon\Desktop\비주얼 베이직\JBrowser\JBrowser\obj\Debug\JBrowser.exe
+C:\Users\kweon\Desktop\비주얼 베이직\JBrowser\JBrowser\obj\Debug\JBrowser.xml
+C:\Users\kweon\Desktop\비주얼 베이직\JBrowser\JBrowser\obj\Debug\JBrowser.pdb
+C:\Users\kweon\Desktop\비주얼 베이직\JBrowser\JBrowser\bin\Debug\JBrowser.exe.manifest
+C:\Users\kweon\Desktop\비주얼 베이직\JBrowser\JBrowser\bin\Debug\JBrowser.application
+C:\Users\kweon\Desktop\비주얼 베이직\JBrowser\JBrowser\obj\Debug\JBrowser.exe.manifest
+C:\Users\kweon\Desktop\비주얼 베이직\JBrowser\JBrowser\obj\Debug\JBrowser.application
